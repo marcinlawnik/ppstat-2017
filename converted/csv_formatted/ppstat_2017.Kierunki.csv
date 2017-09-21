@@ -1,0 +1,34 @@
+id;wydzial;wydzial_short;kierunek;kierunek_short;rok;finished
+1;Architektury;WA;Architecture (Architektura);ARCH(EN);2017;1
+2;Architektury;WA;Architektura;ARCH;2017;1
+3;Budownictwa i In¿ynierii Œrodowiska;WBIIS;Budownictwo;BUD;2017;1
+4;Budownictwa i In¿ynierii Œrodowiska;WBIIS;In¿ynieria œrodowiska;INS;2017;1
+5;Budowy Maszyn i Zarz¹dzania;WBMIZ;In¿ynieria biomedyczna;INB;2017;1
+6;Budowy Maszyn i Zarz¹dzania;WBMIZ;In¿ynieria materia³owa;INM;2017;1
+7;Budowy Maszyn i Zarz¹dzania;WBMIZ;Mechanika i budowa maszyn;MIBM;2017;1
+8;Budowy Maszyn i Zarz¹dzania;WBMIZ;Mechatronika;MECH;2017;1
+9;Budowy Maszyn i Zarz¹dzania;WBMIZ;Zarz¹dzanie i in¿ynieria produkcji;ZIIP;2017;1
+10;Elektryczny;WE;Automatic Control and Robotics (Automatyka i robotyka);EAIR(EN);2017;1
+11;Elektryczny;WE;Automatyka i robotyka;EAIR;2017;1
+12;Elektryczny;WE;Energetyka;ERG;2017;1
+13;Elektryczny;WE;Elektrotechnika;ETECH;2017;1
+14;Elektryczny;WE;Informatyka;EINF;2017;1
+15;Elektryczny;WE;Matematyka w technice;MWT;2017;1
+16;Elektroniki i Telekomunikacji;WEiT;Electronics and Telecommunications - Information and Communication Technologies;EIT(EN);2017;1
+17;Elektroniki i Telekomunikacji;WEiT;Elektronika i Telekomunikacja;EIT;2017;1
+18;Elektroniki i Telekomunikacji;WEiT;Teleinformatyka;TINF;2017;1
+19;Fizyki Technicznej;WFT;Edukacja techniczno-informatyczna;ETI;2017;1
+20;Fizyki Technicznej;WFT;Fizyka techniczna;FTCH;2017;1
+21;Informatyki;WI;Automatyka i robotyka;AIR;2017;1
+22;Informatyki;WI;Bioinformatyka;BINF;2017;1
+23;Informatyki;WI;Informatyka;INF;2017;1
+24;In¿ynierii Zarz¹dzania;WIZ;Engineering Management - Engineering with Commerce;INZZ(EN);2017;1
+25;In¿ynierii Zarz¹dzania;WIZ;In¿ynieria bezpieczeñstwa;INZB;2017;1
+26;In¿ynierii Zarz¹dzania;WIZ;In¿ynieria zarz¹dzania;INZZ;2017;1
+27;In¿ynierii Zarz¹dzania;WIZ;Logistyka;LOG;2017;1
+28;Maszyn Roboczych i Transportu;WMRiT;Lotnictwo i Kosmonautyka;LOTK;2017;1
+29;Maszyn Roboczych i Transportu;WMRiT;Mechanika i budowa maszyn;MBMT;2017;1
+30;Maszyn Roboczych i Transportu;WMRiT;Transport;TNT;2017;1
+31;Technologii Chemicznej;WTCh;In¿ynieria chemiczna i procesowa;ICHP;2017;1
+32;Technologii Chemicznej;WTCh;Technologia chemiczna;TECH;2017;1
+33;Technologii Chemicznej;WTCh;Technologie ochrony œrodowiska;TOS;2017;1
